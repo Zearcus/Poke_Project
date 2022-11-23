@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.txt": "markdown",
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    }
+}
